@@ -1,4 +1,9 @@
-create table usuarios (
+create table pais (
   nombre varchar(30),
-  clave varchar(10)
+  codigo varchar(10)
+ );
+create table municipio (
+  nombre varchar(30),
+  codigo varchar(10),
+  region varchar(10)
  );
