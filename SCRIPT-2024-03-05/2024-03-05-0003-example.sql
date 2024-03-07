@@ -1,1 +1,1 @@
-DROP TABLE usuarios, categoria,gerente,conductor,repartidor,auxiliar,empleados,tienda,pais,municipio,horario, departamento, producto,sucursal,director ;
+DROP TABLE usuarios,gerente,conductor,repartidor,auxiliar,empleados,tienda,pais,municipio,horario, departamento, producto,sucursal,director ;
